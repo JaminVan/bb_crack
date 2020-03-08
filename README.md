@@ -9,6 +9,6 @@
 打开谷歌 ==> chrome://extensions/ ==> 加载已解压的扩展程序 ==> 选择本目录
 
 # 支持站点
-https://bootstrapshuffle.com/
-https://tailwind.build/
-https://bulma.dev/
+- https://bootstrapshuffle.com/
+- https://tailwind.build/
+- https://bulma.dev/
