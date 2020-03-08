@@ -4,5 +4,5 @@ $(document).ready(function() {
 	// crack for customizer theme
 	$('.customizer__pro').remove();
 	// remove all 
-	$('.unlock-all-items').remove();
+        // $('.unlock-all-items').remove();
 });
