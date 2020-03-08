@@ -1,0 +1,13 @@
+{
+	"name": "bbcrack",
+	"version": "1.0",
+	"description": "破解 各个开发网站",
+	"content_scripts": [
+		{
+			"run_at": "document_end",
+			"matches": ["https://bootstrapshuffle.com/editor*", "https://tailwind.build/editor*", "https://bulma.dev/editor*"],
+			"js": ["jquery-3.4.1.min.js", "script.js"]
+		}
+	],
+	"manifest_version": 2
+}
